@@ -5,3 +5,9 @@ _autosave-*
 fp-info-cache
 ~*.lck
 *.kicad_prl
+*-backups/
+fp-info-cache
+*.kicad_prl
+_autosave-*
+*.bak
+*-bak
