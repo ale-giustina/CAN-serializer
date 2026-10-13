@@ -118,6 +118,18 @@
         [
           "hole_clearance|201505000|58300000|c9caacff-e42c-4650-a685-a0f01b63d125|804ca71a-73f2-4d51-bdc2-f4921bebf1cd",
           ""
+        ],
+        [
+          "lib_footprint_mismatch|204465000|55250000|5821b78a-c08c-453a-8970-98dbcf6795d6|00000000-0000-0000-0000-000000000000",
+          "Edited footprint"
+        ],
+        [
+          "silk_edge_clearance|139973330|69380000|e4fac037-43c2-43f8-990c-78d08ee55cee|e1b728d7-2a61-4a70-8e41-8277d54f3930",
+          "Fine"
+        ],
+        [
+          "silk_edge_clearance|140653777|41119999|873f7392-8dc7-48f1-964f-e505dbe06285|ce668624-81e3-458d-a713-60d75da5590a",
+          "Fine"
         ]
       ],
       "meta": {
