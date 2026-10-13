@@ -64,7 +64,7 @@
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 2,
-          "remove_islands": 0,
+          "remove_islands": 1,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
@@ -86,7 +86,40 @@
           "width": 0.3
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|201505000|52200000|a52a3e22-87e5-4c6a-b86d-ca42637f26b4|a53f1c30-4a55-4051-970b-a642282b3a2c",
+          ""
+        ],
+        [
+          "hole_clearance|201505000|52200000|adcc43d8-62ab-40e9-822d-ea0896cea78d|a53f1c30-4a55-4051-970b-a642282b3a2c",
+          ""
+        ],
+        [
+          "hole_clearance|201505000|52700000|50d36df0-c0df-42e7-8751-14896dd595e2|a53f1c30-4a55-4051-970b-a642282b3a2c",
+          ""
+        ],
+        [
+          "hole_clearance|201505000|52700000|fd84153f-66bb-4bb4-99d1-f96d73ade8e1|a53f1c30-4a55-4051-970b-a642282b3a2c",
+          ""
+        ],
+        [
+          "hole_clearance|201505000|57800000|60c40c1e-a4fb-431e-b0eb-5108599350a3|804ca71a-73f2-4d51-bdc2-f4921bebf1cd",
+          ""
+        ],
+        [
+          "hole_clearance|201505000|57800000|67390d94-adc1-4302-aa88-f49db6af6b5e|804ca71a-73f2-4d51-bdc2-f4921bebf1cd",
+          ""
+        ],
+        [
+          "hole_clearance|201505000|58300000|0821b85c-1f91-499d-a5e2-84ef92777b1d|804ca71a-73f2-4d51-bdc2-f4921bebf1cd",
+          ""
+        ],
+        [
+          "hole_clearance|201505000|58300000|c9caacff-e42c-4650-a685-a0f01b63d125|804ca71a-73f2-4d51-bdc2-f4921bebf1cd",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -837,7 +870,7 @@
         "uuid": "66d2fbd4-006b-4508-99f8-a5b66a4874df"
       }
     ],
-    "used_designators": "#FLG1-3,#PWR1-94,#PWR129-161,C1-20,C33-50,D1-54,F1,FB1,FL1-3,J1-8,R1-27,R41-49,SW1-2,U1-3,U13-15,Y1-2",
+    "used_designators": "#FLG1-3,#PWR1-94,#PWR129-161,C1-20,C33-50,D1-54,F1,FB1,FL1-3,H1-2,J1-8,R1-27,R41-49,SW1-2,U1-3,U13-15,Y1-2",
     "variants": []
   },
   "sheets": [
