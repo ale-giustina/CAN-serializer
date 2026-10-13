@@ -2495,6 +2495,12 @@
 		(uuid "2a55b000-a6b9-41f6-b206-022265268a9f")
 	)
 	(junction
+		(at 90.17 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ffdfc58-1b91-4f08-9ff2-4184cc4bbcdc")
+	)
+	(junction
 		(at 212.09 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2548,7 +2554,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 88.9) (xy 90.17 78.74)
+			(xy 90.17 88.9) (xy 90.17 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2595,6 +2601,16 @@
 			(type default)
 		)
 		(uuid "1ff58631-798c-4731-9b79-bb79b842e47c")
+	)
+	(wire
+		(pts
+			(xy 90.17 86.36) (xy 102.87 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "249f9a63-1110-4eee-b27a-79e9d0e47e31")
 	)
 	(wire
 		(pts
@@ -2708,7 +2724,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 86.36) (xy 102.87 86.36)
+			(xy 81.28 86.36) (xy 90.17 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2855,6 +2871,16 @@
 			(type default)
 		)
 		(uuid "dc5ba81d-341d-4be5-84b1-26fcf44d3035")
+	)
+	(wire
+		(pts
+			(xy 90.17 86.36) (xy 90.17 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ded13f10-1d8d-41b5-9880-a2ca1368ea27")
 	)
 	(wire
 		(pts
@@ -3182,7 +3208,6 @@
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2SC6")
 		(at 90.17 93.98 0)
-		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3192,7 +3217,7 @@
 		(dnp no)
 		(uuid "84f4d68c-7d51-42a1-84e6-79e7329709b1")
 		(property "Reference" "U1"
-			(at 89.154 101.092 0)
+			(at 91.186 101.092 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3203,7 +3228,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 89.154 103.632 0)
+			(at 91.186 103.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3214,7 +3239,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 88.9 100.33 0)
+			(at 91.44 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3227,7 +3252,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 88.9 102.235 0)
+			(at 91.44 102.235 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

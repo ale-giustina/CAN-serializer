@@ -7798,12 +7798,12 @@
 		(uuid "546b0c07-0e63-4f89-8081-4ac5ae49b656")
 	)
 	(label "CAN3_LED_RX"
-		(at 60.96 66.04 0)
+		(at 121.92 50.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "55032a89-a888-4cf0-b63b-8c3375f60ed8")
 	)
@@ -7978,7 +7978,7 @@
 		(uuid "8e5f9ac5-c76b-45a9-8d80-9c80027e6996")
 	)
 	(label "CAN2_LED_TX"
-		(at 121.92 50.8 180)
+		(at 121.92 48.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8048,7 +8048,7 @@
 		(uuid "9e616848-59ed-4e6e-a607-f9f3bffc2909")
 	)
 	(label "CAN1_LED_RX"
-		(at 60.96 71.12 0)
+		(at 60.96 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8278,12 +8278,12 @@
 		(uuid "ec3563c8-189f-4538-af1e-700592a10dbc")
 	)
 	(label "CAN2_LED_RX"
-		(at 121.92 48.26 180)
+		(at 60.96 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "eeed75f3-86f0-44b5-a3f2-c10c58e7684a")
 	)
