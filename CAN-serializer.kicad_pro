@@ -217,7 +217,7 @@
         "min_track_width": 0.15,
         "min_via_annular_width": 0.15,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -307,7 +307,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.6,
+          "diameter": 0.7,
           "drill": 0.3
         },
         {
@@ -727,7 +727,7 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -745,7 +745,7 @@
           "group_by": true,
           "label": "Exclude from Simulation",
           "name": "${EXCLUDE_FROM_SIM}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -766,10 +766,10 @@
           "show": true
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "Price [€]",
           "name": "Price [€]",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -811,7 +811,7 @@
           "group_by": false,
           "label": "PN",
           "name": "PN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -824,6 +824,30 @@
           "label": "BOM Name",
           "name": "BOM Name",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S3.3",
+          "name": "KLC_S3.3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.1",
+          "name": "KLC_S4.1",
+          "show": false
+        },
+        {
+          "group_by": true,
+          "label": "MOUSER PN",
+          "name": "MOUSER PN",
+          "show": true
         }
       ],
       "filter_string": "",
@@ -882,7 +906,7 @@
         "uuid": "66d2fbd4-006b-4508-99f8-a5b66a4874df"
       }
     ],
-    "used_designators": "#FLG1-3,#PWR1-94,#PWR129-161,C1-20,C33-50,D1-54,F1,FB1,FL1-3,H1-2,J1-8,R1-27,R41-49,SW1-2,U1-3,U13-15,Y1-2",
+    "used_designators": "#FLG1-3,#PWR1-94,#PWR129-161,C1-20,C33-50,D1-54,F1,FB1,FL1-3,H1-2,J1-10,R1-27,R41-49,SW1-2,U1-3,U13-15,Y1-2",
     "variants": []
   },
   "sheets": [
