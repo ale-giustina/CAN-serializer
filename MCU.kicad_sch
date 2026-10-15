@@ -12934,7 +12934,7 @@
 				)
 			)
 		)
-		(property "MOUSER PN" "720-Q65113A7467"
+		(property "MOUSER PN" "604-APT1608SURCK-AMT "
 			(at 342.9 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -13924,7 +13924,7 @@
 				)
 			)
 		)
-		(property "MOUSER PN" "720-Q65113A5260"
+		(property "MOUSER PN" "720-Q65113A7469"
 			(at 375.92 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -14059,7 +14059,7 @@
 				)
 			)
 		)
-		(property "MOUSER PN" "720-Q65113A7467"
+		(property "MOUSER PN" "604-APT1608SURCK-AMT "
 			(at 342.9 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -16333,7 +16333,7 @@
 				)
 			)
 		)
-		(property "MOUSER PN" "720-Q65113A5260"
+		(property "MOUSER PN" "720-Q65113A7469"
 			(at 375.92 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -18718,7 +18718,7 @@
 				)
 			)
 		)
-		(property "MOUSER PN" "720-Q65113A5260"
+		(property "MOUSER PN" "720-Q65113A7469"
 			(at 311.15 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -19438,7 +19438,7 @@
 				)
 			)
 		)
-		(property "MOUSER PN" "720-Q65113A5260"
+		(property "MOUSER PN" "720-Q65113A7469"
 			(at 375.92 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -22255,7 +22255,7 @@
 				)
 			)
 		)
-		(property "MOUSER PN" "720-Q65113A7467"
+		(property "MOUSER PN" "604-APT1608SURCK-AMT "
 			(at 342.9 54.61 0)
 			(hide yes)
 			(show_name no)

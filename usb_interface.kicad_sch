@@ -3752,7 +3752,7 @@
 				)
 			)
 		)
-		(property "MOUSER PN" "581-KGM21AR71C106MU"
+		(property "MOUSER PN" "603-CC0805MKX77BB106"
 			(at 195.58 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -4716,7 +4716,7 @@
 				)
 			)
 		)
-		(property "MOUSER PN" "581-KGM21AR71C106MU"
+		(property "MOUSER PN" "603-CC0805MKX77BB106"
 			(at 242.57 96.52 0)
 			(hide yes)
 			(show_name no)
