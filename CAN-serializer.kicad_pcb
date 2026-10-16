@@ -117,7 +117,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -14057,7 +14056,7 @@
 			(uuid "6082e7ec-9e0e-4f33-996f-ab4596d11804")
 		)
 		(embedded_fonts no)
-		(model "${EAGLE_KIKAD_LIBRARY}/ACT45B-101-2P-TL003_TDK.step"
+		(model "${EAGLE_KICAD_LIBRARY}/ACT45B-101-2P-TL003_TDK.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31926,7 +31925,7 @@
 			(uuid "120d28aa-de8e-471a-8af4-373cc448ae6a")
 		)
 		(embedded_fonts no)
-		(model "${EAGLE_KIKAD_LIBRARY}/FTSH-107-01-L-DV-K-TR.step"
+		(model "${EAGLE_KICAD_LIBRARY}/FTSH-107-01-L-DV-K-TR.step"
 			(offset
 				(xyz 0 0 0.4)
 			)
