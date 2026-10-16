@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "KiCad") (type "KiCad") (uri "C:/Users/Alexj/Documents/KiCad.pretty") (options "") (descr ""))
+	(lib (name "MIALIBRERIA") (type "KiCad") (uri "C:/Users/Alexj/Documents/KiCad/MIALIBRERIA.pretty") (options "") (descr ""))
+)
