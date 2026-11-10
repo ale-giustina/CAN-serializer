@@ -11,5 +11,11 @@ To connect to the can line a 1848943 1803329 PHOENIX CONNECTORS connector pair h
 ![Front_Full](media/front_full.png)
 ![Back_Raw](media/back.png)
 
+# V1.0 Assembled images
+![assembled_1](media/assembled-1.jpeg)
+![assembled_2](media/assembled-2.jpeg)
+
+Firmware for the board can be found in the [CAN Serializer Firmware](https://github.com/ale-giustina/CAN-serializer-sw) repository.
+
 # Warning
 The BOOT0 pin has been overriden due to the presence of 3 FDCAN transceivers. This means that the board will not boot correctly. Before programming one needs to set the correct register through the SWD interface to ignore the BOOT0 pin.
