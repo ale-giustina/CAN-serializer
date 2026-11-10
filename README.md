@@ -6,6 +6,8 @@ The board also features a USART interface, an SPI interface and an I2C interface
 
 To connect to the can line a 1848943 1803329 PHOENIX CONNECTORS connector pair has been choosed for ease of operability.
 
+A sample .ioc has been provided for the CUBEMX configuration.
+
 # Board images
 ![Front_Raw](media/front_raw.png)
 ![Front_Full](media/front_full.png)
