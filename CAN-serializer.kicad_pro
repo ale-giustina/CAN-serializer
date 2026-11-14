@@ -643,7 +643,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "modelli/CAN-serializer.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
